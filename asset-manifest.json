@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e9806377.css",
+    "main.js": "/static/js/main.d662c2dc.js",
+    "static/js/787.2b75339b.chunk.js": "/static/js/787.2b75339b.chunk.js",
+    "static/media/RingsideRegular-Black.otf": "/static/media/RingsideRegular-Black.1e90034874d607616ea8.otf",
+    "static/media/RingsideRegular-Book.otf": "/static/media/RingsideRegular-Book.8257bbeb6c53aeee685a.otf",
+    "static/media/RingsideRegular-Bold.otf": "/static/media/RingsideRegular-Bold.0f04893dbeddd15dc5fd.otf",
+    "static/media/avawatz-logo-blue.svg": "/static/media/avawatz-logo-blue.122aae4cfb8698984de1c9901154ba44.svg",
+    "index.html": "/index.html",
+    "main.e9806377.css.map": "/static/css/main.e9806377.css.map",
+    "main.d662c2dc.js.map": "/static/js/main.d662c2dc.js.map",
+    "787.2b75339b.chunk.js.map": "/static/js/787.2b75339b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9806377.css",
+    "static/js/main.d662c2dc.js"
+  ]
+}
